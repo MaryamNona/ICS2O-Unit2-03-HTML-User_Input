@@ -5,7 +5,7 @@
 // This file contains the JS functions for index.html
 
 function enterClicked () {
-  // this function gets users street name ans street number and shows it back to the user
+  // this function gets users street name and street number and shows it back to the user
 
   // input
   const streetNumber = parseInt(document.getElementById('street-entered').value)
